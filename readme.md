@@ -3,4 +3,4 @@
 
 Hi there 👋
 
-I am Hisham, a MERN stack developer,creative and a developer who loves to create new innovative ideas and tools. Currently I am Studying and doing my 1st year BCA grade.
+I am Hisham, a FUll stack developer,creative and a developer who loves to create new innovative ideas and tools. Currently I am Studying and doing my 1st year BCA.
